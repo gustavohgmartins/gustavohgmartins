@@ -66,7 +66,6 @@
 ## Stats :bar_chart:
 <div align="center">
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohgmartins&theme=algolia&hide=prs,issues&hide_rank=true&show_icons=true&line_height=30&count_private=true&icon_color=FF00FF)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohgmartins&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  
