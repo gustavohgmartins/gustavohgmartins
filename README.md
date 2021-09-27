@@ -65,9 +65,8 @@
 
 ## Stats :bar_chart:
 <div align="center">
-  
-  &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohgmartins&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  <img style="display: inline" width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohgmartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img style="display: inline-block" width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohgmartins&layout=compact&langs_count=7&theme=algolia"/>
  
 </div>
 
