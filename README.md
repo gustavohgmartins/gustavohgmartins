@@ -41,27 +41,27 @@
 </p>
 
 <br>
-
+<!-- 
 ## Skills :mage:
 
 <p align="center">
   These are some tools/languages/libs I'm currently learning:
   <br><br>
-<!--   <img src="https://img.icons8.com/color/2x/figma.png" width="70" alt="Figma"> -->
+<!--   <img src="https://img.icons8.com/color/2x/figma.png" width="70" alt="Figma"> 
   <img src="https://img.icons8.com/color/2x/python.png" width="70" alt="Python">
   <img src="https://img.icons8.com/color/2x/javascript.png" width="70" alt="JavaScript">
   <img src="https://img.icons8.com/2266EE/jquery" width="70" alt="JQuery">
-<!-- <img src="https://img.icons8.com/color/2x/react-native.png" width="70" alt="React"> -->
-<!--   <img src="https://img.icons8.com/color/2x/typescript.png" width="70" alt="TypeScript">  -->
+<!-- <img src="https://img.icons8.com/color/2x/react-native.png" width="70" alt="React"> 
+<!--   <img src="https://img.icons8.com/color/2x/typescript.png" width="70" alt="TypeScript">  
   <img src="https://img.icons8.com/color/2x/html-5.png" width="70" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="70" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/git.png" width="70" alt="Git">
-<!--   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/react-native.png" width="70" alt="React Native">  -->
-<!--   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/php-logo.png" width="70" alt="PHP"> -->
-<!--   <img src="https://img.icons8.com/color/2x/4a90e2/mysql-logo.png" width="70" alt="MySQL">  -->
+<!--   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/react-native.png" width="70" alt="React Native">  
+<!--   <img src="https://img.icons8.com/ios-filled/2x/4a90e2/php-logo.png" width="70" alt="PHP"> 
+<!--   <img src="https://img.icons8.com/color/2x/4a90e2/mysql-logo.png" width="70" alt="MySQL">  
 </p>
 
-<br>
+<br>-->
 
 ## Stats :bar_chart:
 <div align="center">
