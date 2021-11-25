@@ -45,8 +45,8 @@
 ## Skills :mage:
 
 <p align="center">
-  These are some tools/languages/libs I'm currently learning:
-  <br><br>
+<!--  These are some tools/languages/libs I'm currently learning:-->
+<!--  <br><br>-->
 <!--   <img src="https://img.icons8.com/color/2x/figma.png" width="70" alt="Figma"> -->
  <!-- <img src="https://img.icons8.com/color/2x/python.png" width="70" alt="Python">-->
  <!-- <img src="https://img.icons8.com/color/2x/javascript.png" width="70" alt="JavaScript">-->
