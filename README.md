@@ -1,7 +1,7 @@
 
 ## Hey! :wave:
 <p align="center">
-  My name is Gustavo and I am a junior Developer and Mechanical Engeneering Student from Brazil :brazil:
+  My name is Gustavo and I am a full stack developer from Brazil :brazil:
   <br><br>
   <a href="mailto:martins.gustavohg@gmail.com">
         <img 
