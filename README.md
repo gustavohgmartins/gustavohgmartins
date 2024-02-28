@@ -17,11 +17,6 @@
             alt="Behance" 
             src="https://img.shields.io/badge/-Behance-%231769FF?logo=Behance">
   </a> -->
-  <a href="https://codepen.io/gustavohgmartins">
-        <img 
-            alt="Codepen" 
-            src="https://img.shields.io/badge/CodePen-%23000000?logo=CodePen">
-  </a>
   <!--<a href="">
         <img 
             alt="FCC" 
